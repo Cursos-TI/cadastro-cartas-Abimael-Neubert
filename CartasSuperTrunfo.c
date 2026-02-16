@@ -41,7 +41,7 @@ int main() {
     printf("Estado (A a H): ");
     scanf(" %c",&Estado1);
 
-    printf("Codigo da carta ");
+    printf("Codigo da carta: ");
     scanf(" %s", Codigo1);
 
     printf("Nome da Cidade: ");
@@ -82,7 +82,7 @@ int main() {
     scanf("%f", &Pib2);
 
     printf("Numero de pontos turisticos: ");
-    scanf("%d", &Pontos_Turisticos2);
+    scanf(" %d", &Pontos_Turisticos2);
     
     /* ===== SAIDA CARTA 1 ===== */
 
